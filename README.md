@@ -28,7 +28,7 @@ http://kevinhudson101.com/Breakout-/
 
 ## Authors
 
-* **Bijoyan Das** (https://www.udemy.com/user/bijoyan-das/)- *Initial work/Instructor*
+* **Bijoyan Das** ( https://www.udemy.com/user/bijoyan-das/ )- *Initial work/Instructor*
 * **Kevin Hudson** - *Student and Contributor*
 
 ## License
